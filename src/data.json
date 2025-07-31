@@ -1,0 +1,26 @@
+[
+  {
+    "item": "Product A",
+    "ppu": 100,
+    "qty": 10,
+    "discount": 0
+  },
+  {
+    "item": "Product B",
+    "ppu": 200,
+    "qty": 10,
+    "discount": 0
+  },
+  {
+    "item": "Product C",
+    "ppu": 200,
+    "qty": 10,
+    "discount": 0
+  },
+  {
+    "item": "Product D",
+    "ppu": 100,
+    "qty": 1,
+    "discount": 0
+  }
+]
